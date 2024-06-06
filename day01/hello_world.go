@@ -23,6 +23,7 @@ import fm "fmt" //给引入的包起别名
 	type4
 	import("fmt";"os")
 */
+
 func main() {
 	//导入包如果未使用会报错
 	fm.Println("Hello World")
